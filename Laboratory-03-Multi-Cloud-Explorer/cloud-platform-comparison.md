@@ -2,8 +2,6 @@
 
 ## Comparison Table
 
-## Comparison Table
-
 | Category | AWS | Microsoft Azure | Google Cloud Platform (GCP) |
 |---|---|---|---|
 | Launch Year | 2006 | 2010 | 2008 |
