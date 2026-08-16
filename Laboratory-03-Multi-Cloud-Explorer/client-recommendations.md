@@ -49,3 +49,17 @@ I recommend **Amazon Web Services (AWS)** because the company serves customers a
 - Amazon EC2 – for running the e-commerce application
 - Amazon S3 – for storing product images, files, and other data
 - Elastic Load Balancing – for distributing traffic across application servers
+
+
+# Checkpoint 6 – Multi-Cloud Decision Matrix
+
+## Cloud Provider Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS offers a wide range of services and scalable resources that can support a startup as it grows. |
+| Enterprise Organization | AWS | AWS provides a broad selection of enterprise services, strong scalability, and global infrastructure. |
+| Microsoft Environment | Microsoft Azure | Azure has strong integration with Microsoft products such as Windows Server, Microsoft 365, and Microsoft Entra ID. |
+| AI / Machine Learning | Google Cloud Platform (GCP) | GCP is known for its strong AI, machine learning, and data analytics capabilities. |
+| Kubernetes Deployment | Google Cloud Platform (GCP) | GCP provides Google Kubernetes Engine (GKE), a managed Kubernetes service for deploying and managing containerized applications. |
+| Global Web Application | AWS | AWS provides global infrastructure, scalable computing, and services that can support highly available web applications. |
