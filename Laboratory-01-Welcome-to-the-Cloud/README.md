@@ -1,4 +1,4 @@
-# Laboratory 01 – Welcome to the Cloud Computing
+# Laboratory 02 – Welcome to the Cloud Computing
 
 ## Mission Overview
 
